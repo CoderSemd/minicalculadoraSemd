@@ -1,0 +1,13 @@
+1500__________________100%
+x_______________________15%
+
+variables:
+
+-Tanto%=?
+-cantidad=?
+-%total=100%
+-Resultx=?
+
+Operacion:
+Resultx=Tanto% * cantidad/%total;
+Resultx=15 * 1500 /100;

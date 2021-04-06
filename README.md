@@ -1,2 +1,2 @@
 # minicalculadoraSemd
-Minicalculadora Php Jquery Html Bootsrap
+Minicalculadora Php Jquery Html Bootstrap
